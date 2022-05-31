@@ -1,2 +1,1 @@
-# PokemonAtlas-G6
-微信小程序
+# 宝可梦图鉴
